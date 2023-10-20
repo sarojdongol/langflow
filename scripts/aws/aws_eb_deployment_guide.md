@@ -1,5 +1,8 @@
 # Guide to deploy langflow in AWS ElasticBean sack service.
 
+**Duration**: 60 minutes  
+**Author**: [Saroj Dongol](https://www.linkedin.com/in/sarojdongol/)
+
 ## Install required packages
 
 pip install awsebcli --upgrade --user
